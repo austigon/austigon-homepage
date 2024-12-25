@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
@@ -8,8 +8,6 @@ body {
 }
 
 header {
-    background: #333;
-    color: #fff;
     padding: 1rem 0;
     text-align: center;
 }
@@ -21,6 +19,4 @@ main {
 footer {
     text-align: center;
     padding: 1rem 0;
-    background: #333;
-    color: #fff;
 }
